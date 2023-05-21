@@ -43,5 +43,4 @@ let status: Network.Status = Network.shared.currentStatus()
 
 ```
 
-Author: Raphaël Wach  
-[@raphaelwach](https://twitter.com/raphaelwach)
+Author: Raphaël Wach 
